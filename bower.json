@@ -1,0 +1,22 @@
+{
+  "name": "jquery.drop",
+  "homepage": "https://github.com/RiCoTeRoX/jquery.drop",
+  "authors": [
+    "Danny <ricoterox@gmail.com>"
+  ],
+  "description": "jquery drop for slick grid",
+  "main": "jquery.event.drop.js",
+  "moduleType": [],
+  "keywords": [
+    "jquery",
+    "slickgrid"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

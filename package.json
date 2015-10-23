@@ -1,0 +1,19 @@
+{
+  "name": "jquery.drop",
+  "version": "1.0.0",
+  "description": "jquery drop for slickgrid",
+  "main": "jquery.event.drop.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RiCoTeRoX/jquery.drop.git"
+  },
+  "author": "danny ralde",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RiCoTeRoX/jquery.drop/issues"
+  },
+  "homepage": "https://github.com/RiCoTeRoX/jquery.drop#readme"
+}
